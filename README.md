@@ -29,9 +29,9 @@ single cause.
 
 ## Dashboard
 
-![Dashboard - Findings](dashboard_page1.jpg)
+![Dashboard - Findings](dashboard page 1.jpg)
 
-![Dashboard - Methodology & Data Sources](dashboard_page2.jpg)
+![Dashboard - Methodology & Data Sources](dashboard page 2.jpg)
 
 ## Methodology (brief)
 
